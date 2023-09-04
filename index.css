@@ -28,9 +28,9 @@ body {
   align-items: center;
   flex-flow: column wrap;
   margin-top: 10vh;
-  font: 18px/1.5 serif, "Times", 'Hiragino Sans GB';
+  font: 24px/1.5 serif, "Times", 'Hiragino Sans GB';
   color: #bfbfbf;
-  font-size: 18px;
+  font-size: 24px;
   writing-mode: vertical-rl;
   max-width: 400px;
   padding: 16px;

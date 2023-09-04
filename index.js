@@ -10,7 +10,6 @@ window.addEventListener("load", () => {
 
   function displayText(t) {
     if (!t || t.length < 1) return;
-    console.log({t});
     let prev = "";
     t.split(" ").forEach((ph, index) => {
       if (index % 2 == 0) prev = ph;
